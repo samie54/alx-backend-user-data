@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module contains the filter logging methods.
+Filter logs Module
 """
 import logging
 import mysql.connector
