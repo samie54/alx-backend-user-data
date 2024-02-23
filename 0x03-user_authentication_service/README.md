@@ -85,4 +85,8 @@ In this task, you will implement the Auth.update_password method. It takes reset
 mandatory
 In this task you will implement the update_password function in the app module to respond to the PUT /reset_password route.
 
+20. End-to-end integration test
+#advanced
+Score: 0.0% (Checks completed: 0.0%)
+Start your app. Open a new terminal window.
 
